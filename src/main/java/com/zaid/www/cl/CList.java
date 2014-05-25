@@ -8,7 +8,7 @@ package com.zaid.www.cl;
  * and next pointers point to itself and it is both the head and tail of the
  * list.
  * 
- * @author Zaid Ahmad
+ * @author Zaid Ahmad ----
  * @version 1.0
  * @param <T>
  */
